@@ -92,7 +92,7 @@
 |Naive Bayes|0.995|0.991|0.998|0.995|
 |Logistic Regression|0.879|0.856|0.913|0.883|
 |K Nearest Neighbor|0.999|0.999|0.999|0.999|
-|Random Forest|:---:|:---:|:---:|:---:|
+|Random Forest|0.998|0.995|0.999|0.998|
 
 ## Feedback
 
